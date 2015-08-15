@@ -3,7 +3,7 @@
 #
 
 User-agent: *
-Disallow: /api/
+Disallow: /api/s
 Disallow: /data/
 Disallow: /source/
 Disallow: /install/
